@@ -1,0 +1,139 @@
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\bin\Debug\DeTai12-PTTKTT.exe.config
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\bin\Debug\DeTai12-PTTKTT.exe
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\bin\Debug\DeTai12-PTTKTT.pdb
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.csproj.AssemblyReference.cache
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.csproj.SuggestedBindingRedirects.cache
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\obj\Debug\DeTai12_PTTKTT.Form1.resources
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\obj\Debug\DeTai12_PTTKTT.Properties.Resources.resources
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.csproj.GenerateResource.cache
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.csproj.CoreCompileInputs.cache
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.exe
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.pdb
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\obj\Debug\DeTai12_PTTKTT.Form2.resources
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\bin\Debug\LinqToExcel.dll
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\bin\Debug\Remotion.Data.Linq.dll
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\bin\Debug\Remotion.dll
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\bin\Debug\Remotion.Interfaces.dll
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\bin\Debug\LinqToExcel.xml
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.csproj.CopyComplete
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT - Copy (2)\DeTai12-PTTKTT\bin\Debug\DeTai12-PTTKTT.exe.config
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT - Copy (2)\DeTai12-PTTKTT\bin\Debug\DeTai12-PTTKTT.exe
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT - Copy (2)\DeTai12-PTTKTT\bin\Debug\DeTai12-PTTKTT.pdb
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT - Copy (2)\DeTai12-PTTKTT\bin\Debug\LinqToExcel.dll
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT - Copy (2)\DeTai12-PTTKTT\bin\Debug\Remotion.Data.Linq.dll
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT - Copy (2)\DeTai12-PTTKTT\bin\Debug\Remotion.dll
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT - Copy (2)\DeTai12-PTTKTT\bin\Debug\Remotion.Interfaces.dll
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT - Copy (2)\DeTai12-PTTKTT\bin\Debug\LinqToExcel.xml
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT - Copy (2)\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.csproj.AssemblyReference.cache
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT - Copy (2)\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.csproj.SuggestedBindingRedirects.cache
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT - Copy (2)\DeTai12-PTTKTT\obj\Debug\DeTai12_PTTKTT.Form1.resources
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT - Copy (2)\DeTai12-PTTKTT\obj\Debug\DeTai12_PTTKTT.Form2.resources
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT - Copy (2)\DeTai12-PTTKTT\obj\Debug\DeTai12_PTTKTT.Properties.Resources.resources
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT - Copy (2)\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.csproj.GenerateResource.cache
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT - Copy (2)\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.csproj.CoreCompileInputs.cache
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT - Copy (2)\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.csproj.CopyComplete
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT - Copy (2)\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.exe
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT - Copy (2)\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.pdb
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT - Copy (2)\DeTai12-PTTKTT\obj\Debug\DeTai12_PTTKTT.Form3.resources
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\obj\Debug\DeTai12_PTTKTT.Form3.resources
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\bin\Debug\EPPlus.dll
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\bin\Debug\System.ComponentModel.Annotations.dll
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\bin\Debug\EPPlus.xml
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT2\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.csproj.AssemblyReference.cache
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT2\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.csproj.SuggestedBindingRedirects.cache
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT2\DeTai12-PTTKTT\obj\Debug\DeTai12_PTTKTT.Form1.resources
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT2\DeTai12-PTTKTT\obj\Debug\DeTai12_PTTKTT.Form2.resources
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT2\DeTai12-PTTKTT\obj\Debug\DeTai12_PTTKTT.Form3.resources
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT2\DeTai12-PTTKTT\obj\Debug\DeTai12_PTTKTT.Properties.Resources.resources
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT2\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.csproj.GenerateResource.cache
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT2\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.csproj.CoreCompileInputs.cache
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT2\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.exe
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT2\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.pdb
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT2\DeTai12-PTTKTT\bin\Debug\DeTai12-PTTKTT.exe.config
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT2\DeTai12-PTTKTT\bin\Debug\DeTai12-PTTKTT.exe
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT2\DeTai12-PTTKTT\bin\Debug\DeTai12-PTTKTT.pdb
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT2\DeTai12-PTTKTT\bin\Debug\EPPlus.dll
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT2\DeTai12-PTTKTT\bin\Debug\LinqToExcel.dll
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT2\DeTai12-PTTKTT\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT2\DeTai12-PTTKTT\bin\Debug\Remotion.Data.Linq.dll
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT2\DeTai12-PTTKTT\bin\Debug\Remotion.dll
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT2\DeTai12-PTTKTT\bin\Debug\Remotion.Interfaces.dll
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT2\DeTai12-PTTKTT\bin\Debug\System.ComponentModel.Annotations.dll
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT2\DeTai12-PTTKTT\bin\Debug\EPPlus.xml
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT2\DeTai12-PTTKTT\bin\Debug\LinqToExcel.xml
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT2\DeTai12-PTTKTT\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT2\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.csproj.CopyComplete
+D:\1.University\3.Semester3\1.PTTKTT\KetQua\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\bin\Debug\DeTai12-PTTKTT.exe.config
+D:\1.University\3.Semester3\1.PTTKTT\KetQua\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\bin\Debug\DeTai12-PTTKTT.exe
+D:\1.University\3.Semester3\1.PTTKTT\KetQua\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\bin\Debug\DeTai12-PTTKTT.pdb
+D:\1.University\3.Semester3\1.PTTKTT\KetQua\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\bin\Debug\EPPlus.dll
+D:\1.University\3.Semester3\1.PTTKTT\KetQua\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\bin\Debug\LinqToExcel.dll
+D:\1.University\3.Semester3\1.PTTKTT\KetQua\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\1.University\3.Semester3\1.PTTKTT\KetQua\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\bin\Debug\Remotion.Data.Linq.dll
+D:\1.University\3.Semester3\1.PTTKTT\KetQua\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\bin\Debug\Remotion.dll
+D:\1.University\3.Semester3\1.PTTKTT\KetQua\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\bin\Debug\Remotion.Interfaces.dll
+D:\1.University\3.Semester3\1.PTTKTT\KetQua\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\bin\Debug\System.ComponentModel.Annotations.dll
+D:\1.University\3.Semester3\1.PTTKTT\KetQua\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\bin\Debug\EPPlus.xml
+D:\1.University\3.Semester3\1.PTTKTT\KetQua\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\bin\Debug\LinqToExcel.xml
+D:\1.University\3.Semester3\1.PTTKTT\KetQua\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\1.University\3.Semester3\1.PTTKTT\KetQua\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.csproj.AssemblyReference.cache
+D:\1.University\3.Semester3\1.PTTKTT\KetQua\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.csproj.SuggestedBindingRedirects.cache
+D:\1.University\3.Semester3\1.PTTKTT\KetQua\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\obj\Debug\DeTai12_PTTKTT.Form1.resources
+D:\1.University\3.Semester3\1.PTTKTT\KetQua\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\obj\Debug\DeTai12_PTTKTT.Form2.resources
+D:\1.University\3.Semester3\1.PTTKTT\KetQua\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\obj\Debug\DeTai12_PTTKTT.Form3.resources
+D:\1.University\3.Semester3\1.PTTKTT\KetQua\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\obj\Debug\DeTai12_PTTKTT.Properties.Resources.resources
+D:\1.University\3.Semester3\1.PTTKTT\KetQua\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.csproj.GenerateResource.cache
+D:\1.University\3.Semester3\1.PTTKTT\KetQua\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.csproj.CoreCompileInputs.cache
+D:\1.University\3.Semester3\1.PTTKTT\KetQua\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.csproj.CopyComplete
+D:\1.University\3.Semester3\1.PTTKTT\KetQua\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.exe
+D:\1.University\3.Semester3\1.PTTKTT\KetQua\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.pdb
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\bin\Debug\DeTai12-PTTKTT.exe.config
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\bin\Debug\DeTai12-PTTKTT.exe
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\bin\Debug\DeTai12-PTTKTT.pdb
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\bin\Debug\EPPlus.dll
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\bin\Debug\LinqToExcel.dll
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\bin\Debug\Remotion.Data.Linq.dll
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\bin\Debug\Remotion.dll
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\bin\Debug\Remotion.Interfaces.dll
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\bin\Debug\System.ComponentModel.Annotations.dll
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\bin\Debug\EPPlus.xml
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\bin\Debug\LinqToExcel.xml
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.csproj.AssemblyReference.cache
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.csproj.SuggestedBindingRedirects.cache
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\obj\Debug\DeTai12_PTTKTT.Form1.resources
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\obj\Debug\DeTai12_PTTKTT.Form2.resources
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\obj\Debug\DeTai12_PTTKTT.Form3.resources
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\obj\Debug\DeTai12_PTTKTT.Properties.Resources.resources
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.csproj.GenerateResource.cache
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.csproj.CoreCompileInputs.cache
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.csproj.CopyComplete
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.exe
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.pdb
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform_C#\DeTai12-PTTKTT\bin\Debug\DeTai12-PTTKTT.exe.config
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform_C#\DeTai12-PTTKTT\bin\Debug\DeTai12-PTTKTT.exe
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform_C#\DeTai12-PTTKTT\bin\Debug\DeTai12-PTTKTT.pdb
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform_C#\DeTai12-PTTKTT\bin\Debug\EPPlus.dll
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform_C#\DeTai12-PTTKTT\bin\Debug\LinqToExcel.dll
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform_C#\DeTai12-PTTKTT\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform_C#\DeTai12-PTTKTT\bin\Debug\Remotion.Data.Linq.dll
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform_C#\DeTai12-PTTKTT\bin\Debug\Remotion.dll
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform_C#\DeTai12-PTTKTT\bin\Debug\Remotion.Interfaces.dll
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform_C#\DeTai12-PTTKTT\bin\Debug\System.ComponentModel.Annotations.dll
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform_C#\DeTai12-PTTKTT\bin\Debug\EPPlus.xml
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform_C#\DeTai12-PTTKTT\bin\Debug\LinqToExcel.xml
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform_C#\DeTai12-PTTKTT\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform_C#\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.csproj.AssemblyReference.cache
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform_C#\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.csproj.SuggestedBindingRedirects.cache
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform_C#\DeTai12-PTTKTT\obj\Debug\DeTai12_PTTKTT.Form1.resources
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform_C#\DeTai12-PTTKTT\obj\Debug\DeTai12_PTTKTT.Form2.resources
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform_C#\DeTai12-PTTKTT\obj\Debug\DeTai12_PTTKTT.Form3.resources
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform_C#\DeTai12-PTTKTT\obj\Debug\DeTai12_PTTKTT.Properties.Resources.resources
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform_C#\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.csproj.GenerateResource.cache
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform_C#\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.csproj.CoreCompileInputs.cache
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform_C#\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.csproj.CopyComplete
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform_C#\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.exe
+D:\1.University\3.Semester3\1.PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT\DeTai12-PTTKTT_Winform_C#\DeTai12-PTTKTT\obj\Debug\DeTai12-PTTKTT.pdb
