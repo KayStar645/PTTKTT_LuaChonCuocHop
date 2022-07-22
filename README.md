@@ -6,3 +6,5 @@
 #Chương trình: Lựa chọn cuộc họp
 
 #Điểm Báo cáo: 9.5đ
+
+*[Kết quả chạy chương trình](/MoTa.jbg)*
