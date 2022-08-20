@@ -7,4 +7,4 @@
 
 #Điểm Báo cáo: 9.5đ
 
-*[Kết quả chạy chương trình](/MoTa.jpg)*
+*![Kết quả chạy chương trình](https://github.com/KayStar645/PTTKTT_LuaChonCuocHop/blob/main/MoTa.jpg?raw=true)*
